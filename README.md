@@ -88,3 +88,5 @@ plt.show()
 ### OUTPUT:
 ![Screenshot 2024-10-03 161253](https://github.com/user-attachments/assets/38998e9e-b3a8-4ec0-b77d-8dcb462c028d)
 
+## RESULT:
+Thus the program to perform Edge-Linking-using-Hough-Transform is executed successfully.
